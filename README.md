@@ -1,9 +1,26 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+sans&pause=500&color=A191F7&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+sou+a+Jeniffer!+Bem-vindo!++%F0%9F%8C%8A;Hello%2C+I'm+Jeniffer!+Welcome!+%F0%9F%8C%8A)](https://git.io/typing-svg)
+
+>📚 Utilizo o GitHub para estudos <br>
+>💻 PUCRS | Ciência da Computação em andamento... 
+##
+>📚 I use GitHub for studying. <br>
+>💻 PUCRS | Computer Science in progress...
+
+<div>
+  <img align="right" src="https://custom-doodle.com/wp-content/uploads/doodle/walking-duck-roronoa-zoro-meme/walking-duck-roronoa-zoro-meme-doodle.gif" width="200" height="200" border="0" />
+</div>
+
+##
+<div display="inline-block"><br>
+  <img aligne="center" alt="Jeni-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img aligne="center" alt="Jeni-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img aligne="center" alt="Jeni-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img aligne="center" alt="Jeni-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img aligne="center" alt="Jeni-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
+</div>
 
 <!--
-**JenifferKlein/JenifferKlein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
